@@ -1,9 +1,9 @@
 <?php
 
-class Demo
+class RenamedClass
 {
-    public function methodForConflicts()
+    public function renamedMethod()
     {
-        echo "Hello World";
+        echo "Bye Bye World";
     }
 }
