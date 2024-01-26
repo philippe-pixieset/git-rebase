@@ -6,4 +6,9 @@ class DisagreementOnNaming
     {
         echo "World Hello";
     }
+
+    public function newMethod()
+    {
+        echo "Hello World";
+    }
 }
