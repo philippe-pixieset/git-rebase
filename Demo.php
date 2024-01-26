@@ -1,9 +1,9 @@
 <?php
 
-class Demo
+class DisagreementOnNaming
 {
-    public function methodForConflicts()
+    public function iAmVeryCreativeWithNaming()
     {
-        echo "Hello World";
+        echo "World Hello";
     }
 }
