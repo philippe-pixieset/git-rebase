@@ -1,5 +1,8 @@
 <?php
 
+/**
+ * Demo Class
+ */
 class RenamedClass
 {
     public function renamedMethod()
